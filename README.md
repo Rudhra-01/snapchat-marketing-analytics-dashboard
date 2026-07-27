@@ -6,16 +6,7 @@ This project presents an interactive Power BI dashboard designed to analyze Snap
 
 The dashboard helps marketing teams evaluate campaign effectiveness, audience engagement, advertising spend, revenue, and return on investment through interactive visualizations and KPIs.
 
----
 
-
-
-
-
-
-
-
----
 
 ## Features
 
@@ -28,8 +19,6 @@ The dashboard helps marketing teams evaluate campaign effectiveness, audience en
 - Interactive Filters
 - Professional UI Design
 
----
-
 ## KPIs
 
 - Total Impressions
@@ -41,7 +30,7 @@ The dashboard helps marketing teams evaluate campaign effectiveness, audience en
 - ROI
 - CTR
 
----
+
 
 ## Dataset
 
@@ -49,7 +38,6 @@ The dashboard helps marketing teams evaluate campaign effectiveness, audience en
 - 22 Columns
 - Synthetic Snapchat Marketing Dataset
 
----
 
 ## Tools Used
 
@@ -59,7 +47,7 @@ The dashboard helps marketing teams evaluate campaign effectiveness, audience en
 - Python
 - CSV
 
----
+
 
 ## Author
 
