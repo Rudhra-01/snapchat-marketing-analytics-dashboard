@@ -6,6 +6,10 @@ This project presents an interactive Power BI dashboard designed to analyze Snap
 
 The dashboard helps marketing teams evaluate campaign effectiveness, audience engagement, advertising spend, revenue, and return on investment through interactive visualizations and KPIs.
 
+## Dashboard
+
+<img width="1195" height="671" alt="snapchat" src="https://github.com/user-attachments/assets/52dc4ded-738a-4fdd-ba1d-268fe5782af2" />
+
 
 
 ## Features
